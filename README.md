@@ -1,4 +1,4 @@
-### Olá eu sou a Bruna-Silva!!!!👩🏻‍💻
+### Olá eu sou a BrunaSilva!!!!👩🏻‍💻
  
 <div align="center">
   <a href="https://github.com/brunika">

@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api
-          ?type=waving&color=auto&height=300&section=header&text=Bruna%20Silva&fontSize=30" />
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&animation=twinkling&section=header&text=Bruna%20Silva&fontAlignY=35"/>
 ### Olá eu sou a BrunaSilva!!!!
  
 <div align="center">
@@ -23,3 +21,5 @@
  
  
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&animation=twinkling&section=footer"/>

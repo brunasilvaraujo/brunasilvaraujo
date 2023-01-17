@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api
-          ?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Bruna%Silva&fontSize=30" />
+          ?type=waving&color=auto&height=300&section=header&text=Bruna%20Silva&fontSize=30" />
 
 ### Olá eu sou a BrunaSilva!!!!
  

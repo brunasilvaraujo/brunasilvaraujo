@@ -1,10 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&animation=twinkling&section=header&text=Bruna%20Silva&fontAlignY=35"/>
-### Olá eu sou a BrunaSilva!!!!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&section=header&text=Bruna%20Silva&fontColor=#fff&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%89+BRUNA+SILVA+!;SOU+ESTUDANTE+DE+ENGENHARIA+DE+SOFTWARE)](https://git.io/typing-svg)
  
 <div align="center">
   <a href="https://github.com/brunika">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunika&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunika&layout=compact&langs_count=7&theme=cobalt"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunika&show_icons=true&&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf%text_color=c9d1d9&bg_color=0d1117" alt="Brunikas github stats"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunika&layout=compact&hide_border=true&tilte_color&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,13 +14,12 @@
 </div>
   
   ##
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=brunika&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
  
 <div> 
   <a href="https://instagram.com/brunadonascimento_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-nascimento-68239663/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&animation=twinkling&section=footer"/>

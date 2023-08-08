@@ -22,7 +22,6 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=brunasilvaraujo&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
  
 <div> 
-  <a href="https://instagram.com/brunadasilvaraujo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunasilvaraujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 

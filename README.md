@@ -12,14 +12,8 @@
 <div style="display: inline_block"><br>
  <img src="{[BadgeURLHere](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)}" /> 
  <img src="{[BadgeURLHere](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)}" />
- <img src="{[BadgeURLHere](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)}" />
+ <img src="{(https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)}" />
 
-
-  <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruna-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Bruna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bruna-Typecript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 </div>
 <br>

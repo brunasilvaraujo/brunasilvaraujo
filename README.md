@@ -7,7 +7,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunasilvaraujo&show_icons=true&&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf%text_color=c9d1d9&bg_color=0d1117" alt="Bruna Silva github stats"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasilvaraujo&layout=compact&hide_border=true&tilte_color&text_color=00bfbf&bg_color=0d1117"/>
 </div>
-   <p>Estudante de Desenvolvimento FullStack dedicada, criativa e apaixonada por Front-End. Habilidades em HTML, CSS, JavaScript, React.JS, Git, GitHub. Atualmente 
+   <p>Desenvolvedora Front End dedicada, criativa e apaixonada. Habilidades em HTML, CSS, JavaScript, React.JS, Git, GitHub. Atualmente 
    estou estudando na Trybe para me formar como desenvolvedora FullStack e ampliar ainda mais minha experiência e habilidades técnicas.</p>
 <div style="display: inline_block"><br>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 

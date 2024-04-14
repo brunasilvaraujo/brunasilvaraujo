@@ -39,7 +39,7 @@
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
  
 </div>
-</div>
+
 
 <br>
  ## 💌 Onde me encontrar ⤵️
@@ -50,5 +50,5 @@
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
  </a>
 </div>
-
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&animation=twinkling&section=footer"/>

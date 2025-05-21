@@ -7,8 +7,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunasilvaraujo&show_icons=true&&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf%text_color=c9d1d9&bg_color=0d1117" alt="Bruna Silva github stats"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasilvaraujo&layout=compact&hide_border=true&tilte_color&text_color=00bfbf&bg_color=0d1117"/>
 </div>
-   <p>Desenvolvedora Front End dedicada, criativa e apaixonada. Habilidades em HTML, CSS, JavaScript, React.JS, Git, GitHub. Atualmente 
-   estou estudando na Trybe para me formar como desenvolvedora FullStack e ampliar ainda mais minha experiência e habilidades técnicas.</p>
+   <p>Desenvolvedora Full Stack dedicada, criativa e apaixonada por Front-End e interfaces interativas. Tenho habilidades sólidas em HTML, CSS, JavaScript e TypeScript e experiência avançada com React.js – desde componentes de classe e funcionais até hooks, Context API, Redux, React Router, testes automatizados e boas práticas de estilização e gerenciamento de estados.
+
+No Back-End, atuei com Node.js, Express, Docker, Sequelize e API REST, além de possuir experiência com .NET Core (ASP.NET, xUnit, Entity Framework, SQL Server) e ORM. Tenho conhecimento em autenticação, autorização, arquitetura de microsserviços e deployment na Azure.
+
+Também sou familiar com metodologias ágeis, Git/GitHub, e possuo forte interesse por algoritmos (ordenação, busca, recursividade), estruturas de dados, programação orientada a objetos e estratégias de resolução de problemas e arquitetura de software.</p>
    
    ## 🚀 Minhas Skills
 

@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%89+BRUNA+SILVA+!;SOU+DESENVOLVEDORA+FULLSTACK)](https://git.io/typing-svg)
  
-<div align="center">
-  <a href="https://github.com/brunasilvaraujo">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunasilvaraujo&show_icons=true&&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf%text_color=c9d1d9&bg_color=0d1117" alt="Bruna Silva github stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasilvaraujo&layout=compact&hide_border=true&tilte_color&text_color=00bfbf&bg_color=0d1117"/>
 </div>
    <p>Desenvolvedora Full Stack dedicada, criativa e apaixonada por Front-End e interfaces interativas. Tenho habilidades sólidas em HTML, CSS, JavaScript e TypeScript e experiência avançada com React.js – desde componentes de classe e funcionais até hooks, Context API, Redux, React Router, testes automatizados e boas práticas de estilização e gerenciamento de estados.
 
